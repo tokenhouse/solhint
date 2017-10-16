@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 defaults:
   - scope:
-      path: readme
+      path: index
       type: default
     values:
       layout: default
