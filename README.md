@@ -1,4 +1,4 @@
-## Solhint Project
+## Solhint Project, PROJECT MOVED TO https://github.com/protofire/solhint
 
 [![Build Status](https://travis-ci.org/tokenhouse/solhint.svg?branch=master)](https://travis-ci.org/tokenhouse/solhint)
 [![npm version](http://img.shields.io/npm/v/solhint.svg?style=flat)](https://npmjs.org/package/solhint 
@@ -8,8 +8,6 @@ https://coveralls.io/github/tokenhouse/solhint?branch=master)
 
 This is an open source project for linting [Solidity](http://solidity.readthedocs.io/en/develop/) code. This project 
 provide both **Security** and **Style Guide** validations.   
-
-### PROJECT MOVED TO https://github.com/protofire/solhint
 
 ### Installation
 
